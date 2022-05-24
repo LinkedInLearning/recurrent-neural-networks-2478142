@@ -3,7 +3,7 @@ This is the repository for the LinkedIn Learning course Recurrent Neural Network
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
-This repository contains the exercise files in a folder called ["Exercise Files"](https://github.com/LinkedInLearning/predictive-consumer-analytics-3018274/tree/main/Exercise%20Files). This folder contains both the Data (.csv and .txt) files, as well as the Jupyter Notebook (.ipynb) files used in the course. 
+This repository contains the exercise files in a folder called ["Exercise Files"](https://github.com/LinkedInLearning/recurrent-neural-networks-2478142/tree/main/Exercise%20Files). This folder contains both the Data (.csv and .txt) files, as well as the Jupyter Notebook (.ipynb) files used in the course. 
 
 One file, _glove.6B.50d.txt.zip_, will need to be unzipped prior to use.
 
